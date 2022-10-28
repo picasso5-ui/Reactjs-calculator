@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: black;
+}
+.App{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   padding: 0 10px;
+    min-height: 100vh;
+
+}
+.calc-wrapper{
+    background-color: white;
+    width: 400px;
+   
+    border-radius: 16px;
+}
+.rows{
+    display: flex;
+}
